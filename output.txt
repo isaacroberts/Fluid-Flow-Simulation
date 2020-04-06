@@ -1,0 +1,6324 @@
+Filect =  41
+---------- 0 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 558
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x28d5db0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 626
+  Field Data:
+    Debug: Off
+    Modified Time: 323
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1010
+  Number Of Cells: 1956
+  Cell Data:
+    Debug: Off
+    Modified Time: 331
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2ba6f40)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x28d5e00
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 550
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x28d3380)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x28d5e00
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1010
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 494
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1010
+      MaxId: 1009
+      NumberOfComponents: 1
+      Information: 0x2df6240
+        Debug: Off
+        Modified Time: 493
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1010
+      Size: 1010
+      MaxId: 1009
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 526
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 3030
+      MaxId: 3029
+      NumberOfComponents: 3
+      Information: 0x2df6500
+        Debug: Off
+        Modified Time: 525
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1010
+      Size: 3030
+      MaxId: 3029
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 550
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 9090
+      MaxId: 9089
+      NumberOfComponents: 9
+      Information: 0x2df3bb0
+        Debug: Off
+        Modified Time: 549
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1010
+      Size: 9090
+      MaxId: 9089
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 638
+  Number Of Points: 1010
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 0 : (1010,)
+---------- 1 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 1171
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e38c00
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 1239
+  Field Data:
+    Debug: Off
+    Modified Time: 936
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1454
+  Number Of Cells: 2831
+  Cell Data:
+    Debug: Off
+    Modified Time: 944
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df5d00)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e39000
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 1163
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df1b50)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e39000
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1454
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 1107
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1454
+      MaxId: 1453
+      NumberOfComponents: 1
+      Information: 0x2df4ac0
+        Debug: Off
+        Modified Time: 1106
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1454
+      Size: 1454
+      MaxId: 1453
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 1139
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4362
+      MaxId: 4361
+      NumberOfComponents: 3
+      Information: 0x2c1f0a0
+        Debug: Off
+        Modified Time: 1138
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1454
+      Size: 4362
+      MaxId: 4361
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 1163
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 13086
+      MaxId: 13085
+      NumberOfComponents: 9
+      Information: 0x2df4ce0
+        Debug: Off
+        Modified Time: 1162
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1454
+      Size: 13086
+      MaxId: 13085
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 1251
+  Number Of Points: 1454
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 1 : (1454,)
+---------- 2 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 1827
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df9180
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 1895
+  Field Data:
+    Debug: Off
+    Modified Time: 1592
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1526
+  Number Of Cells: 2977
+  Cell Data:
+    Debug: Off
+    Modified Time: 1600
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x296fd30)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e386c0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 1819
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e38710)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e386c0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1526
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 1763
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1526
+      MaxId: 1525
+      NumberOfComponents: 1
+      Information: 0x29ab790
+        Debug: Off
+        Modified Time: 1762
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1526
+      Size: 1526
+      MaxId: 1525
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 1795
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4578
+      MaxId: 4577
+      NumberOfComponents: 3
+      Information: 0x29ab690
+        Debug: Off
+        Modified Time: 1794
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1526
+      Size: 4578
+      MaxId: 4577
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 1819
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 13734
+      MaxId: 13733
+      NumberOfComponents: 9
+      Information: 0x2e66760
+        Debug: Off
+        Modified Time: 1818
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1526
+      Size: 13734
+      MaxId: 13733
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 1907
+  Number Of Points: 1526
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 2 : (1526,)
+---------- 3 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 2483
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e3bf40
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 2551
+  Field Data:
+    Debug: Off
+    Modified Time: 2248
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1504
+  Number Of Cells: 2935
+  Cell Data:
+    Debug: Off
+    Modified Time: 2256
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3b190)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e389d0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 2475
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3be90)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e389d0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1504
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 2419
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1504
+      MaxId: 1503
+      NumberOfComponents: 1
+      Information: 0x2ba6ec0
+        Debug: Off
+        Modified Time: 2418
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1504
+      Size: 1504
+      MaxId: 1503
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 2451
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4512
+      MaxId: 4511
+      NumberOfComponents: 3
+      Information: 0x2df1af0
+        Debug: Off
+        Modified Time: 2450
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1504
+      Size: 4512
+      MaxId: 4511
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 2475
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 13536
+      MaxId: 13535
+      NumberOfComponents: 9
+      Information: 0x2df64e0
+        Debug: Off
+        Modified Time: 2474
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1504
+      Size: 13536
+      MaxId: 13535
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 2563
+  Number Of Points: 1504
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 3 : (1504,)
+---------- 4 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 3139
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e66580
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 3207
+  Field Data:
+    Debug: Off
+    Modified Time: 2904
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1447
+  Number Of Cells: 2821
+  Cell Data:
+    Debug: Off
+    Modified Time: 2912
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x28d35c0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e37090
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 3131
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e666a0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e37090
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1447
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 3075
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1447
+      MaxId: 1446
+      NumberOfComponents: 1
+      Information: 0x2df48b0
+        Debug: Off
+        Modified Time: 3074
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1447
+      Size: 1447
+      MaxId: 1446
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 3107
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4341
+      MaxId: 4340
+      NumberOfComponents: 3
+      Information: 0x2df4aa0
+        Debug: Off
+        Modified Time: 3106
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1447
+      Size: 4341
+      MaxId: 4340
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 3131
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 13023
+      MaxId: 13022
+      NumberOfComponents: 9
+      Information: 0x2e38df0
+        Debug: Off
+        Modified Time: 3130
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1447
+      Size: 13023
+      MaxId: 13022
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 3219
+  Number Of Points: 1447
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 4 : (1447,)
+---------- 5 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 3795
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2dfac30
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 3863
+  Field Data:
+    Debug: Off
+    Modified Time: 3560
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1466
+  Number Of Cells: 2852
+  Cell Data:
+    Debug: Off
+    Modified Time: 3568
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3c290)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df7e10
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 3787
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e374c0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df7e10
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1466
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 3731
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1466
+      MaxId: 1465
+      NumberOfComponents: 1
+      Information: 0x28d33d0
+        Debug: Off
+        Modified Time: 3730
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1466
+      Size: 1466
+      MaxId: 1465
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 3763
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4398
+      MaxId: 4397
+      NumberOfComponents: 3
+      Information: 0x28d34e0
+        Debug: Off
+        Modified Time: 3762
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1466
+      Size: 4398
+      MaxId: 4397
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 3787
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 13194
+      MaxId: 13193
+      NumberOfComponents: 9
+      Information: 0x28d5ed0
+        Debug: Off
+        Modified Time: 3786
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1466
+      Size: 13194
+      MaxId: 13193
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 3875
+  Number Of Points: 1466
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 5 : (1466,)
+---------- 6 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 4451
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e38490
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 4519
+  Field Data:
+    Debug: Off
+    Modified Time: 4216
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1391
+  Number Of Cells: 2701
+  Cell Data:
+    Debug: Off
+    Modified Time: 4224
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x27f57f0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e34af0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 4443
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2dfb0b0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e34af0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1391
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 4387
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1391
+      MaxId: 1390
+      NumberOfComponents: 1
+      Information: 0x2df5ad0
+        Debug: Off
+        Modified Time: 4386
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1391
+      Size: 1391
+      MaxId: 1390
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 4419
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4173
+      MaxId: 4172
+      NumberOfComponents: 3
+      Information: 0x2e3beb0
+        Debug: Off
+        Modified Time: 4418
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1391
+      Size: 4173
+      MaxId: 4172
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 4443
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 12519
+      MaxId: 12518
+      NumberOfComponents: 9
+      Information: 0x296fb80
+        Debug: Off
+        Modified Time: 4442
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1391
+      Size: 12519
+      MaxId: 12518
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 4531
+  Number Of Points: 1391
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 6 : (1391,)
+---------- 7 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 5107
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x296ffb0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 5175
+  Field Data:
+    Debug: Off
+    Modified Time: 4872
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1527
+  Number Of Cells: 2967
+  Cell Data:
+    Debug: Off
+    Modified Time: 4880
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df44e0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df3d20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 5099
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x296ff20)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df3d20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1527
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 5043
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1527
+      MaxId: 1526
+      NumberOfComponents: 1
+      Information: 0x2e38710
+        Debug: Off
+        Modified Time: 5042
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1527
+      Size: 1527
+      MaxId: 1526
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 5075
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 4581
+      MaxId: 4580
+      NumberOfComponents: 3
+      Information: 0x2e38f50
+        Debug: Off
+        Modified Time: 5074
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1527
+      Size: 4581
+      MaxId: 4580
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 5099
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 13743
+      MaxId: 13742
+      NumberOfComponents: 9
+      Information: 0x2e3b8e0
+        Debug: Off
+        Modified Time: 5098
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1527
+      Size: 13743
+      MaxId: 13742
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 5187
+  Number Of Points: 1527
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 7 : (1527,)
+---------- 8 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 5763
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df76e0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 5831
+  Field Data:
+    Debug: Off
+    Modified Time: 5528
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1677
+  Number Of Cells: 3269
+  Cell Data:
+    Debug: Off
+    Modified Time: 5536
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e38e30)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e3ada0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 5755
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df6140)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e3ada0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1677
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 5699
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1677
+      MaxId: 1676
+      NumberOfComponents: 1
+      Information: 0x2df23a0
+        Debug: Off
+        Modified Time: 5698
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1677
+      Size: 1677
+      MaxId: 1676
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 5731
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 5031
+      MaxId: 5030
+      NumberOfComponents: 3
+      Information: 0x2df3d40
+        Debug: Off
+        Modified Time: 5730
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1677
+      Size: 5031
+      MaxId: 5030
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 5755
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 15093
+      MaxId: 15092
+      NumberOfComponents: 9
+      Information: 0x2c1f480
+        Debug: Off
+        Modified Time: 5754
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1677
+      Size: 15093
+      MaxId: 15092
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 5843
+  Number Of Points: 1677
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 8 : (1677,)
+---------- 9 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 6419
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df3a00
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 6487
+  Field Data:
+    Debug: Off
+    Modified Time: 6184
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1769
+  Number Of Cells: 3448
+  Cell Data:
+    Debug: Off
+    Modified Time: 6192
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x296fd40)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x29ab4f0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 6411
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3490)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x29ab4f0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1769
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 6355
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1769
+      MaxId: 1768
+      NumberOfComponents: 1
+      Information: 0x2df54d0
+        Debug: Off
+        Modified Time: 6354
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1769
+      Size: 1769
+      MaxId: 1768
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 6387
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 5307
+      MaxId: 5306
+      NumberOfComponents: 3
+      Information: 0x2b40610
+        Debug: Off
+        Modified Time: 6386
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1769
+      Size: 5307
+      MaxId: 5306
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 6411
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 15921
+      MaxId: 15920
+      NumberOfComponents: 9
+      Information: 0x2e37f50
+        Debug: Off
+        Modified Time: 6410
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1769
+      Size: 15921
+      MaxId: 15920
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 6499
+  Number Of Points: 1769
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 9 : (1769,)
+---------- 10 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 7075
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e3aa80
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 7143
+  Field Data:
+    Debug: Off
+    Modified Time: 6840
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1810
+  Number Of Cells: 3524
+  Cell Data:
+    Debug: Off
+    Modified Time: 6848
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e39c70)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df8550
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 7067
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3a9f0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df8550
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1810
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 7011
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1810
+      MaxId: 1809
+      NumberOfComponents: 1
+      Information: 0x2df4290
+        Debug: Off
+        Modified Time: 7010
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1810
+      Size: 1810
+      MaxId: 1809
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 7043
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 5430
+      MaxId: 5429
+      NumberOfComponents: 3
+      Information: 0x2df3f80
+        Debug: Off
+        Modified Time: 7042
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1810
+      Size: 5430
+      MaxId: 5429
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 7067
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 16290
+      MaxId: 16289
+      NumberOfComponents: 9
+      Information: 0x2df6400
+        Debug: Off
+        Modified Time: 7066
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1810
+      Size: 16290
+      MaxId: 16289
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 7155
+  Number Of Points: 1810
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 10 : (1810,)
+---------- 11 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 7731
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df2d80
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 7799
+  Field Data:
+    Debug: Off
+    Modified Time: 7496
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1915
+  Number Of Cells: 3733
+  Cell Data:
+    Debug: Off
+    Modified Time: 7504
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3a6b0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df2e80
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 7723
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e37dc0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df2e80
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1915
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 7667
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1915
+      MaxId: 1914
+      NumberOfComponents: 1
+      Information: 0x2dfb010
+        Debug: Off
+        Modified Time: 7666
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1915
+      Size: 1915
+      MaxId: 1914
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 7699
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 5745
+      MaxId: 5744
+      NumberOfComponents: 3
+      Information: 0x2e30850
+        Debug: Off
+        Modified Time: 7698
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1915
+      Size: 5745
+      MaxId: 5744
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 7723
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 17235
+      MaxId: 17234
+      NumberOfComponents: 9
+      Information: 0x2dfb120
+        Debug: Off
+        Modified Time: 7722
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1915
+      Size: 17235
+      MaxId: 17234
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 7811
+  Number Of Points: 1915
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 11 : (1915,)
+---------- 12 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 8387
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e34da0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 8455
+  Field Data:
+    Debug: Off
+    Modified Time: 8152
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 1951
+  Number Of Cells: 3803
+  Cell Data:
+    Debug: Off
+    Modified Time: 8160
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2970eb0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e389b0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 8379
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e34990)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e389b0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 1951
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 8323
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 1951
+      MaxId: 1950
+      NumberOfComponents: 1
+      Information: 0x28d5e40
+        Debug: Off
+        Modified Time: 8322
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 1951
+      Size: 1951
+      MaxId: 1950
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 8355
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 5853
+      MaxId: 5852
+      NumberOfComponents: 3
+      Information: 0x2df3090
+        Debug: Off
+        Modified Time: 8354
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 1951
+      Size: 5853
+      MaxId: 5852
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 8379
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 17559
+      MaxId: 17558
+      NumberOfComponents: 9
+      Information: 0x2df5560
+        Debug: Off
+        Modified Time: 8378
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 1951
+      Size: 17559
+      MaxId: 17558
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 8467
+  Number Of Points: 1951
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 12 : (1951,)
+---------- 13 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 9043
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2dfa460
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 9111
+  Field Data:
+    Debug: Off
+    Modified Time: 8808
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2004
+  Number Of Cells: 3909
+  Cell Data:
+    Debug: Off
+    Modified Time: 8816
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df2f70)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x29705c0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 9035
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e309d0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x29705c0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2004
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 8979
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2004
+      MaxId: 2003
+      NumberOfComponents: 1
+      Information: 0x2e3b480
+        Debug: Off
+        Modified Time: 8978
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2004
+      Size: 2004
+      MaxId: 2003
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 9011
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 6012
+      MaxId: 6011
+      NumberOfComponents: 3
+      Information: 0x2df40e0
+        Debug: Off
+        Modified Time: 9010
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2004
+      Size: 6012
+      MaxId: 6011
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 9035
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 18036
+      MaxId: 18035
+      NumberOfComponents: 9
+      Information: 0x2df4500
+        Debug: Off
+        Modified Time: 9034
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2004
+      Size: 18036
+      MaxId: 18035
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 9123
+  Number Of Points: 2004
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 13 : (2004,)
+---------- 14 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 9699
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df74f0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 9767
+  Field Data:
+    Debug: Off
+    Modified Time: 9464
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2083
+  Number Of Cells: 4069
+  Cell Data:
+    Debug: Off
+    Modified Time: 9472
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e389f0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e347f0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 9691
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3b820)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e347f0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2083
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 9635
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2083
+      MaxId: 2082
+      NumberOfComponents: 1
+      Information: 0x2e3b850
+        Debug: Off
+        Modified Time: 9634
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2083
+      Size: 2083
+      MaxId: 2082
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 9667
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 6249
+      MaxId: 6248
+      NumberOfComponents: 3
+      Information: 0x2dfad60
+        Debug: Off
+        Modified Time: 9666
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2083
+      Size: 6249
+      MaxId: 6248
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 9691
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 18747
+      MaxId: 18746
+      NumberOfComponents: 9
+      Information: 0x2df3cc0
+        Debug: Off
+        Modified Time: 9690
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2083
+      Size: 18747
+      MaxId: 18746
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 9779
+  Number Of Points: 2083
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 14 : (2083,)
+---------- 15 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 10355
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e379d0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 10423
+  Field Data:
+    Debug: Off
+    Modified Time: 10120
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2171
+  Number Of Cells: 4244
+  Cell Data:
+    Debug: Off
+    Modified Time: 10128
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e34a70)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df2230
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 10347
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3ad20)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df2230
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2171
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 10291
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2171
+      MaxId: 2170
+      NumberOfComponents: 1
+      Information: 0x2e347c0
+        Debug: Off
+        Modified Time: 10290
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2171
+      Size: 2171
+      MaxId: 2170
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 10323
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 6513
+      MaxId: 6512
+      NumberOfComponents: 3
+      Information: 0x2e345d0
+        Debug: Off
+        Modified Time: 10322
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2171
+      Size: 6513
+      MaxId: 6512
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 10347
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 19539
+      MaxId: 19538
+      NumberOfComponents: 9
+      Information: 0x28d5fb0
+        Debug: Off
+        Modified Time: 10346
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2171
+      Size: 19539
+      MaxId: 19538
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 10435
+  Number Of Points: 2171
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 15 : (2171,)
+---------- 16 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 11011
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df4ab0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 11079
+  Field Data:
+    Debug: Off
+    Modified Time: 10776
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2243
+  Number Of Cells: 4387
+  Cell Data:
+    Debug: Off
+    Modified Time: 10784
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e39b90)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df71c0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 11003
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df4a80)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df71c0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2243
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 10947
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2243
+      MaxId: 2242
+      NumberOfComponents: 1
+      Information: 0x2e665b0
+        Debug: Off
+        Modified Time: 10946
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2243
+      Size: 2243
+      MaxId: 2242
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 10979
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 6729
+      MaxId: 6728
+      NumberOfComponents: 3
+      Information: 0x2df7760
+        Debug: Off
+        Modified Time: 10978
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2243
+      Size: 6729
+      MaxId: 6728
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 11003
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 20187
+      MaxId: 20186
+      NumberOfComponents: 9
+      Information: 0x2df4500
+        Debug: Off
+        Modified Time: 11002
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2243
+      Size: 20187
+      MaxId: 20186
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 11091
+  Number Of Points: 2243
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 16 : (2243,)
+---------- 17 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 11667
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e66170
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 11735
+  Field Data:
+    Debug: Off
+    Modified Time: 11432
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2345
+  Number Of Cells: 4592
+  Cell Data:
+    Debug: Off
+    Modified Time: 11440
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e39080)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df5a10
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 11659
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e34790)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df5a10
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2345
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 11603
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2345
+      MaxId: 2344
+      NumberOfComponents: 1
+      Information: 0x2e30500
+        Debug: Off
+        Modified Time: 11602
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2345
+      Size: 2345
+      MaxId: 2344
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 11635
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 7035
+      MaxId: 7034
+      NumberOfComponents: 3
+      Information: 0x2df5fe0
+        Debug: Off
+        Modified Time: 11634
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2345
+      Size: 7035
+      MaxId: 7034
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 11659
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 21105
+      MaxId: 21104
+      NumberOfComponents: 9
+      Information: 0x2c1f0a0
+        Debug: Off
+        Modified Time: 11658
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2345
+      Size: 21105
+      MaxId: 21104
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 11747
+  Number Of Points: 2345
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 17 : (2345,)
+---------- 18 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 12323
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e2fd10
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 12391
+  Field Data:
+    Debug: Off
+    Modified Time: 12088
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2502
+  Number Of Cells: 4904
+  Cell Data:
+    Debug: Off
+    Modified Time: 12096
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df5cc0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38e20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 12315
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df6600)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38e20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2502
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 12259
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2502
+      MaxId: 2501
+      NumberOfComponents: 1
+      Information: 0x2c1f260
+        Debug: Off
+        Modified Time: 12258
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2502
+      Size: 2502
+      MaxId: 2501
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 12291
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 7506
+      MaxId: 7505
+      NumberOfComponents: 3
+      Information: 0x2c1ec60
+        Debug: Off
+        Modified Time: 12290
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2502
+      Size: 7506
+      MaxId: 7505
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 12315
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 22518
+      MaxId: 22517
+      NumberOfComponents: 9
+      Information: 0x2c1f4b0
+        Debug: Off
+        Modified Time: 12314
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2502
+      Size: 22518
+      MaxId: 22517
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 12403
+  Number Of Points: 2502
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 18 : (2502,)
+---------- 19 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 12979
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e34b50
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 13047
+  Field Data:
+    Debug: Off
+    Modified Time: 12744
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2645
+  Number Of Cells: 5187
+  Cell Data:
+    Debug: Off
+    Modified Time: 12752
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e307a0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df6250
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 12971
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df4ae0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df6250
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2645
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 12915
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2645
+      MaxId: 2644
+      NumberOfComponents: 1
+      Information: 0x2e38fd0
+        Debug: Off
+        Modified Time: 12914
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2645
+      Size: 2645
+      MaxId: 2644
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 12947
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 7935
+      MaxId: 7934
+      NumberOfComponents: 3
+      Information: 0x29ab480
+        Debug: Off
+        Modified Time: 12946
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2645
+      Size: 7935
+      MaxId: 7934
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 12971
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 23805
+      MaxId: 23804
+      NumberOfComponents: 9
+      Information: 0x2e302e0
+        Debug: Off
+        Modified Time: 12970
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2645
+      Size: 23805
+      MaxId: 23804
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 13059
+  Number Of Points: 2645
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 19 : (2645,)
+---------- 20 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 13635
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df3960
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 13703
+  Field Data:
+    Debug: Off
+    Modified Time: 13400
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2804
+  Number Of Cells: 5507
+  Cell Data:
+    Debug: Off
+    Modified Time: 13408
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e38e20)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38850
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 13627
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3c40)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38850
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2804
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 13571
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2804
+      MaxId: 2803
+      NumberOfComponents: 1
+      Information: 0x28d5f80
+        Debug: Off
+        Modified Time: 13570
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2804
+      Size: 2804
+      MaxId: 2803
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 13603
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 8412
+      MaxId: 8411
+      NumberOfComponents: 3
+      Information: 0x2e399a0
+        Debug: Off
+        Modified Time: 13602
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2804
+      Size: 8412
+      MaxId: 8411
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 13627
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 25236
+      MaxId: 25235
+      NumberOfComponents: 9
+      Information: 0x2e3aac0
+        Debug: Off
+        Modified Time: 13626
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2804
+      Size: 25236
+      MaxId: 25235
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 13715
+  Number Of Points: 2804
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 20 : (2804,)
+---------- 21 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 14291
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e396d0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 14359
+  Field Data:
+    Debug: Off
+    Modified Time: 14056
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 2966
+  Number Of Cells: 5830
+  Cell Data:
+    Debug: Off
+    Modified Time: 14064
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2dfedd0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2dfee50
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 14283
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3b5a0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2dfee50
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 2966
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 14227
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 2966
+      MaxId: 2965
+      NumberOfComponents: 1
+      Information: 0x2e66500
+        Debug: Off
+        Modified Time: 14226
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 2966
+      Size: 2966
+      MaxId: 2965
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 14259
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 8898
+      MaxId: 8897
+      NumberOfComponents: 3
+      Information: 0x2e39810
+        Debug: Off
+        Modified Time: 14258
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 2966
+      Size: 8898
+      MaxId: 8897
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 14283
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 26694
+      MaxId: 26693
+      NumberOfComponents: 9
+      Information: 0x2df6080
+        Debug: Off
+        Modified Time: 14282
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 2966
+      Size: 26694
+      MaxId: 26693
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 14371
+  Number Of Points: 2966
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 21 : (2966,)
+---------- 22 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 14947
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df5ca0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 15015
+  Field Data:
+    Debug: Off
+    Modified Time: 14712
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 3217
+  Number Of Cells: 6327
+  Cell Data:
+    Debug: Off
+    Modified Time: 14720
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e36fc0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38e80
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 14939
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2c1eed0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38e80
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 3217
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 14883
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 3217
+      MaxId: 3216
+      NumberOfComponents: 1
+      Information: 0x2df4c80
+        Debug: Off
+        Modified Time: 14882
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 3217
+      Size: 3217
+      MaxId: 3216
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 14915
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 9651
+      MaxId: 9650
+      NumberOfComponents: 3
+      Information: 0x2df37d0
+        Debug: Off
+        Modified Time: 14914
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 3217
+      Size: 9651
+      MaxId: 9650
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 14939
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 28953
+      MaxId: 28952
+      NumberOfComponents: 9
+      Information: 0x2e3b140
+        Debug: Off
+        Modified Time: 14938
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 3217
+      Size: 28953
+      MaxId: 28952
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 15027
+  Number Of Points: 3217
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 22 : (3217,)
+---------- 23 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 15603
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2ba6f30
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 15671
+  Field Data:
+    Debug: Off
+    Modified Time: 15368
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 3417
+  Number Of Cells: 6729
+  Cell Data:
+    Debug: Off
+    Modified Time: 15376
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e390a0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e341d0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 15595
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e2f870)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e341d0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 3417
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 15539
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 3417
+      MaxId: 3416
+      NumberOfComponents: 1
+      Information: 0x2e667e0
+        Debug: Off
+        Modified Time: 15538
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 3417
+      Size: 3417
+      MaxId: 3416
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 15571
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 10251
+      MaxId: 10250
+      NumberOfComponents: 3
+      Information: 0x2e66410
+        Debug: Off
+        Modified Time: 15570
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 3417
+      Size: 10251
+      MaxId: 10250
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 15595
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 30753
+      MaxId: 30752
+      NumberOfComponents: 9
+      Information: 0x2e39400
+        Debug: Off
+        Modified Time: 15594
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 3417
+      Size: 30753
+      MaxId: 30752
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 15683
+  Number Of Points: 3417
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 23 : (3417,)
+---------- 24 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 16259
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e389d0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 16327
+  Field Data:
+    Debug: Off
+    Modified Time: 16024
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 3706
+  Number Of Cells: 7307
+  Cell Data:
+    Debug: Off
+    Modified Time: 16032
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e39900)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38a20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 16251
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e38940)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38a20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 3706
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 16195
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 3706
+      MaxId: 3705
+      NumberOfComponents: 1
+      Information: 0x2e396c0
+        Debug: Off
+        Modified Time: 16194
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 3706
+      Size: 3706
+      MaxId: 3705
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 16227
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 11118
+      MaxId: 11117
+      NumberOfComponents: 3
+      Information: 0x2e395e0
+        Debug: Off
+        Modified Time: 16226
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 3706
+      Size: 11118
+      MaxId: 11117
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 16251
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 33354
+      MaxId: 33353
+      NumberOfComponents: 9
+      Information: 0x2e394c0
+        Debug: Off
+        Modified Time: 16250
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 3706
+      Size: 33354
+      MaxId: 33353
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 16339
+  Number Of Points: 3706
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 24 : (3706,)
+---------- 25 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 16915
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e64630
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 16983
+  Field Data:
+    Debug: Off
+    Modified Time: 16680
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 3979
+  Number Of Cells: 7850
+  Cell Data:
+    Debug: Off
+    Modified Time: 16688
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df5cc0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e30100
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 16907
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x28d5eb0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e30100
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 3979
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 16851
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 3979
+      MaxId: 3978
+      NumberOfComponents: 1
+      Information: 0x2df37a0
+        Debug: Off
+        Modified Time: 16850
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 3979
+      Size: 3979
+      MaxId: 3978
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 16883
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 11937
+      MaxId: 11936
+      NumberOfComponents: 3
+      Information: 0x2df3610
+        Debug: Off
+        Modified Time: 16882
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 3979
+      Size: 11937
+      MaxId: 11936
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 16907
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 35811
+      MaxId: 35810
+      NumberOfComponents: 9
+      Information: 0x2df28e0
+        Debug: Off
+        Modified Time: 16906
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 3979
+      Size: 35811
+      MaxId: 35810
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 16995
+  Number Of Points: 3979
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 25 : (3979,)
+---------- 26 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 17571
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e3ade0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 17639
+  Field Data:
+    Debug: Off
+    Modified Time: 17336
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 4237
+  Number Of Cells: 8368
+  Cell Data:
+    Debug: Off
+    Modified Time: 17344
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e1ce90)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df6500
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 17563
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3ae30)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df6500
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 4237
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 17507
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 4237
+      MaxId: 4236
+      NumberOfComponents: 1
+      Information: 0x2df6550
+        Debug: Off
+        Modified Time: 17506
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 4237
+      Size: 4237
+      MaxId: 4236
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 17539
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 12711
+      MaxId: 12710
+      NumberOfComponents: 3
+      Information: 0x2970ab0
+        Debug: Off
+        Modified Time: 17538
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 4237
+      Size: 12711
+      MaxId: 12710
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 17563
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 38133
+      MaxId: 38132
+      NumberOfComponents: 9
+      Information: 0x2e644c0
+        Debug: Off
+        Modified Time: 17562
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 4237
+      Size: 38133
+      MaxId: 38132
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 17651
+  Number Of Points: 4237
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 26 : (4237,)
+---------- 27 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 18227
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df2ce0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 18295
+  Field Data:
+    Debug: Off
+    Modified Time: 17992
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 4518
+  Number Of Cells: 8927
+  Cell Data:
+    Debug: Off
+    Modified Time: 18000
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2dfe8c0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e2fa10
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 18219
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df2680)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e2fa10
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 4518
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 18163
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 4518
+      MaxId: 4517
+      NumberOfComponents: 1
+      Information: 0x2e392d0
+        Debug: Off
+        Modified Time: 18162
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 4518
+      Size: 4518
+      MaxId: 4517
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 18195
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 13554
+      MaxId: 13553
+      NumberOfComponents: 3
+      Information: 0x2df2ab0
+        Debug: Off
+        Modified Time: 18194
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 4518
+      Size: 13554
+      MaxId: 13553
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 18219
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 40662
+      MaxId: 40661
+      NumberOfComponents: 9
+      Information: 0x2df64e0
+        Debug: Off
+        Modified Time: 18218
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 4518
+      Size: 40662
+      MaxId: 40661
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 18307
+  Number Of Points: 4518
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 27 : (4518,)
+---------- 28 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 18883
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2970b20
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 18951
+  Field Data:
+    Debug: Off
+    Modified Time: 18648
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 4864
+  Number Of Cells: 9614
+  Cell Data:
+    Debug: Off
+    Modified Time: 18656
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3660)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2c1ec00
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 18875
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2970d60)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2c1ec00
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 4864
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 18819
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 4864
+      MaxId: 4863
+      NumberOfComponents: 1
+      Information: 0x28d3530
+        Debug: Off
+        Modified Time: 18818
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 4864
+      Size: 4864
+      MaxId: 4863
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 18851
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 14592
+      MaxId: 14591
+      NumberOfComponents: 3
+      Information: 0x28d3430
+        Debug: Off
+        Modified Time: 18850
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 4864
+      Size: 14592
+      MaxId: 14591
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 18875
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 43776
+      MaxId: 43775
+      NumberOfComponents: 9
+      Information: 0x28d3480
+        Debug: Off
+        Modified Time: 18874
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 4864
+      Size: 43776
+      MaxId: 43775
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 18963
+  Number Of Points: 4864
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 28 : (4864,)
+---------- 29 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 19539
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e1cec0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 19607
+  Field Data:
+    Debug: Off
+    Modified Time: 19304
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 5173
+  Number Of Cells: 10231
+  Cell Data:
+    Debug: Off
+    Modified Time: 19312
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2dfb300)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e1ce20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 19531
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3030)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e1ce20
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 5173
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 19475
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 5173
+      MaxId: 5172
+      NumberOfComponents: 1
+      Information: 0x2970a10
+        Debug: Off
+        Modified Time: 19474
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 5173
+      Size: 5173
+      MaxId: 5172
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 19507
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 15519
+      MaxId: 15518
+      NumberOfComponents: 3
+      Information: 0x2df7670
+        Debug: Off
+        Modified Time: 19506
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 5173
+      Size: 15519
+      MaxId: 15518
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 19531
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 46557
+      MaxId: 46556
+      NumberOfComponents: 9
+      Information: 0x2e39030
+        Debug: Off
+        Modified Time: 19530
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 5173
+      Size: 46557
+      MaxId: 46556
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 19619
+  Number Of Points: 5173
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 29 : (5173,)
+---------- 30 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 20195
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df47d0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 20263
+  Field Data:
+    Debug: Off
+    Modified Time: 19960
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 5567
+  Number Of Cells: 11019
+  Cell Data:
+    Debug: Off
+    Modified Time: 19968
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2dfb520)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df4820
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 20187
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e2f8d0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df4820
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 5567
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 20131
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 5567
+      MaxId: 5566
+      NumberOfComponents: 1
+      Information: 0x2c1f120
+        Debug: Off
+        Modified Time: 20130
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 5567
+      Size: 5567
+      MaxId: 5566
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 20163
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 16701
+      MaxId: 16700
+      NumberOfComponents: 3
+      Information: 0x27f5690
+        Debug: Off
+        Modified Time: 20162
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 5567
+      Size: 16701
+      MaxId: 16700
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 20187
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 50103
+      MaxId: 50102
+      NumberOfComponents: 9
+      Information: 0x2df2940
+        Debug: Off
+        Modified Time: 20186
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 5567
+      Size: 50103
+      MaxId: 50102
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 20275
+  Number Of Points: 5567
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 30 : (5567,)
+---------- 31 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 20851
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x32bb1a0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 20919
+  Field Data:
+    Debug: Off
+    Modified Time: 20616
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 5939
+  Number Of Cells: 11764
+  Cell Data:
+    Debug: Off
+    Modified Time: 20624
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2970e10)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e34590
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 20843
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df5fd0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e34590
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 5939
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 20787
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 5939
+      MaxId: 5938
+      NumberOfComponents: 1
+      Information: 0x2e65cf0
+        Debug: Off
+        Modified Time: 20786
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 5939
+      Size: 5939
+      MaxId: 5938
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 20819
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 17817
+      MaxId: 17816
+      NumberOfComponents: 3
+      Information: 0x2df26e0
+        Debug: Off
+        Modified Time: 20818
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 5939
+      Size: 17817
+      MaxId: 17816
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 20843
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 53451
+      MaxId: 53450
+      NumberOfComponents: 9
+      Information: 0x2e66740
+        Debug: Off
+        Modified Time: 20842
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 5939
+      Size: 53451
+      MaxId: 53450
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 20931
+  Number Of Points: 5939
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 31 : (5939,)
+---------- 32 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 21507
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e2fda0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 21575
+  Field Data:
+    Debug: Off
+    Modified Time: 21272
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 6371
+  Number Of Cells: 12626
+  Cell Data:
+    Debug: Off
+    Modified Time: 21280
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3640)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e66030
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 21499
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df36f0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e66030
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 6371
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 21443
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 6371
+      MaxId: 6370
+      NumberOfComponents: 1
+      Information: 0x2df83e0
+        Debug: Off
+        Modified Time: 21442
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 6371
+      Size: 6371
+      MaxId: 6370
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 21475
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 19113
+      MaxId: 19112
+      NumberOfComponents: 3
+      Information: 0x32bb130
+        Debug: Off
+        Modified Time: 21474
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 6371
+      Size: 19113
+      MaxId: 19112
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 21499
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 57339
+      MaxId: 57338
+      NumberOfComponents: 9
+      Information: 0x2df75d0
+        Debug: Off
+        Modified Time: 21498
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 6371
+      Size: 57339
+      MaxId: 57338
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 21587
+  Number Of Points: 6371
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 32 : (6371,)
+---------- 33 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 22163
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df8ad0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 22231
+  Field Data:
+    Debug: Off
+    Modified Time: 21928
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 6711
+  Number Of Cells: 13305
+  Cell Data:
+    Debug: Off
+    Modified Time: 21936
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2b40790)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df9760
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 22155
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3110)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df9760
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 6711
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 22099
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 6711
+      MaxId: 6710
+      NumberOfComponents: 1
+      Information: 0x2e34430
+        Debug: Off
+        Modified Time: 22098
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 6711
+      Size: 6711
+      MaxId: 6710
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 22131
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 20133
+      MaxId: 20132
+      NumberOfComponents: 3
+      Information: 0x27f5830
+        Debug: Off
+        Modified Time: 22130
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 6711
+      Size: 20133
+      MaxId: 20132
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 22155
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 60399
+      MaxId: 60398
+      NumberOfComponents: 9
+      Information: 0x2dfadf0
+        Debug: Off
+        Modified Time: 22154
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 6711
+      Size: 60399
+      MaxId: 60398
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 22243
+  Number Of Points: 6711
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 33 : (6711,)
+---------- 34 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 22819
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e39850
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 22887
+  Field Data:
+    Debug: Off
+    Modified Time: 22584
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 7053
+  Number Of Cells: 13988
+  Cell Data:
+    Debug: Off
+    Modified Time: 22592
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3710)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e33800
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 22811
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df8460)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e33800
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 7053
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 22755
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 7053
+      MaxId: 7052
+      NumberOfComponents: 1
+      Information: 0x2df4980
+        Debug: Off
+        Modified Time: 22754
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 7053
+      Size: 7053
+      MaxId: 7052
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 22787
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 21159
+      MaxId: 21158
+      NumberOfComponents: 3
+      Information: 0x2e3abc0
+        Debug: Off
+        Modified Time: 22786
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 7053
+      Size: 21159
+      MaxId: 21158
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 22811
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 63477
+      MaxId: 63476
+      NumberOfComponents: 9
+      Information: 0x2df8b30
+        Debug: Off
+        Modified Time: 22810
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 7053
+      Size: 63477
+      MaxId: 63476
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 22899
+  Number Of Points: 7053
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 34 : (7053,)
+---------- 35 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 23475
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e66040
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 23543
+  Field Data:
+    Debug: Off
+    Modified Time: 23240
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 7426
+  Number Of Cells: 14732
+  Cell Data:
+    Debug: Off
+    Modified Time: 23248
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e3ab00)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df5ad0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 23467
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df5d30)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2df5ad0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 7426
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 23411
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 7426
+      MaxId: 7425
+      NumberOfComponents: 1
+      Information: 0x2df3430
+        Debug: Off
+        Modified Time: 23410
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 7426
+      Size: 7426
+      MaxId: 7425
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 23443
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 22278
+      MaxId: 22277
+      NumberOfComponents: 3
+      Information: 0x2df3030
+        Debug: Off
+        Modified Time: 23442
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 7426
+      Size: 22278
+      MaxId: 22277
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 23467
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 66834
+      MaxId: 66833
+      NumberOfComponents: 9
+      Information: 0x2df7660
+        Debug: Off
+        Modified Time: 23466
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 7426
+      Size: 66834
+      MaxId: 66833
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 23555
+  Number Of Points: 7426
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 35 : (7426,)
+---------- 36 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 24131
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e3abe0
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 24199
+  Field Data:
+    Debug: Off
+    Modified Time: 23896
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 7697
+  Number Of Cells: 15273
+  Cell Data:
+    Debug: Off
+    Modified Time: 23904
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x29ab560)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e33710
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 24123
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df8950)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e33710
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 7697
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 24067
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 7697
+      MaxId: 7696
+      NumberOfComponents: 1
+      Information: 0x2970dc0
+        Debug: Off
+        Modified Time: 24066
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 7697
+      Size: 7697
+      MaxId: 7696
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 24099
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 23091
+      MaxId: 23090
+      NumberOfComponents: 3
+      Information: 0x2e386e0
+        Debug: Off
+        Modified Time: 24098
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 7697
+      Size: 23091
+      MaxId: 23090
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 24123
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 69273
+      MaxId: 69272
+      NumberOfComponents: 9
+      Information: 0x2e66110
+        Debug: Off
+        Modified Time: 24122
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 7697
+      Size: 69273
+      MaxId: 69272
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 24211
+  Number Of Points: 7697
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 36 : (7697,)
+---------- 37 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 24787
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2df7950
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 24855
+  Field Data:
+    Debug: Off
+    Modified Time: 24552
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 7946
+  Number Of Cells: 15773
+  Cell Data:
+    Debug: Off
+    Modified Time: 24560
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df6260)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38fa0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 24779
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2df3600)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38fa0
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 7946
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 24723
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 7946
+      MaxId: 7945
+      NumberOfComponents: 1
+      Information: 0x2e34250
+        Debug: Off
+        Modified Time: 24722
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 7946
+      Size: 7946
+      MaxId: 7945
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 24755
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 23838
+      MaxId: 23837
+      NumberOfComponents: 3
+      Information: 0x2e34320
+        Debug: Off
+        Modified Time: 24754
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 7946
+      Size: 23838
+      MaxId: 23837
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 24779
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 71514
+      MaxId: 71513
+      NumberOfComponents: 9
+      Information: 0x2b40650
+        Debug: Off
+        Modified Time: 24778
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 7946
+      Size: 71514
+      MaxId: 71513
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 24867
+  Number Of Points: 7946
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 37 : (7946,)
+---------- 38 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 25443
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x32ba190
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 25511
+  Field Data:
+    Debug: Off
+    Modified Time: 25208
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 8204
+  Number Of Cells: 16285
+  Cell Data:
+    Debug: Off
+    Modified Time: 25216
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2c7eca0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e36b70
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 25435
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2c1f010)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e36b70
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 8204
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 25379
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 8204
+      MaxId: 8203
+      NumberOfComponents: 1
+      Information: 0x2df3d90
+        Debug: Off
+        Modified Time: 25378
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 8204
+      Size: 8204
+      MaxId: 8203
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 25411
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 24612
+      MaxId: 24611
+      NumberOfComponents: 3
+      Information: 0x28d5fa0
+        Debug: Off
+        Modified Time: 25410
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 8204
+      Size: 24612
+      MaxId: 24611
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 25435
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 73836
+      MaxId: 73835
+      NumberOfComponents: 9
+      Information: 0x2e3a770
+        Debug: Off
+        Modified Time: 25434
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 8204
+      Size: 73836
+      MaxId: 73835
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 25523
+  Number Of Points: 8204
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 38 : (8204,)
+---------- 39 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 26099
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2e38e00
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 26167
+  Field Data:
+    Debug: Off
+    Modified Time: 25864
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 8354
+  Number Of Cells: 16583
+  Cell Data:
+    Debug: Off
+    Modified Time: 25872
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e38970)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38b60
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 26091
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e341d0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2e38b60
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 8354
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 26035
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 8354
+      MaxId: 8353
+      NumberOfComponents: 1
+      Information: 0x2e345f0
+        Debug: Off
+        Modified Time: 26034
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 8354
+      Size: 8354
+      MaxId: 8353
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 26067
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 25062
+      MaxId: 25061
+      NumberOfComponents: 3
+      Information: 0x32ba550
+        Debug: Off
+        Modified Time: 26066
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 8354
+      Size: 25062
+      MaxId: 25061
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 26091
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 75186
+      MaxId: 75185
+      NumberOfComponents: 9
+      Information: 0x28d3500
+        Debug: Off
+        Modified Time: 26090
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 8354
+      Size: 75186
+      MaxId: 75185
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 26179
+  Number Of Points: 8354
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 39 : (8354,)
+---------- 40 -----------
+vtkUnstructuredGrid (0x2d8e800)
+  Debug: Off
+  Modified Time: 26755
+  Reference Count: 2
+  Registered Events: (none)
+  Information: 0x2970960
+  Data Released: False
+  Global Release Data: Off
+  UpdateTime: 26823
+  Field Data:
+    Debug: Off
+    Modified Time: 26520
+    Reference Count: 1
+    Registered Events: (none)
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+  Number Of Points: 8354
+  Number Of Cells: 16583
+  Cell Data:
+    Debug: Off
+    Modified Time: 26528
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2c1f480)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2970a40
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 0
+    Number Of Components: 0
+    Number Of Tuples: 0
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: (none)
+    Vectors: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Point Data:
+    Debug: Off
+    Modified Time: 26747
+    Reference Count: 1
+    Registered Events: 
+      Registered Observers:
+        vtkObserver (0x2e367c0)
+          Event: 33
+          EventName: ModifiedEvent
+          Command: 0x2970a40
+          Priority: 0
+          Tag: 1
+    Number Of Arrays: 8
+    Array 0 name = Pressure
+    Array 1 name = Temperature
+    Array 2 name = TemperatureInterpolationErrorBound
+    Array 3 name = Time
+    Array 4 name = Velocity
+    Array 5 name = VelocityInterpolationErrorBound
+    Array 6 name = GravityDirection
+    Array 7 name = Viscosity
+    Number Of Components: 22
+    Number Of Tuples: 8354
+    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 )
+    Interpolate Flags: ( 1 1 1 1 1 0 0 1 )
+    Pass Through Flags: ( 1 1 1 1 1 1 1 1 )
+    Scalars: 
+      Debug: Off
+      Modified Time: 26691
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Pressure
+      Data type: double
+      Size: 8354
+      MaxId: 8353
+      NumberOfComponents: 1
+      Information: 0x2970c10
+        Debug: Off
+        Modified Time: 26690
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Pressure
+      Number Of Components: 1
+      Number Of Tuples: 8354
+      Size: 8354
+      MaxId: 8353
+      LookupTable: (none)
+    Vectors: 
+      Debug: Off
+      Modified Time: 26723
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Velocity
+      Data type: double
+      Size: 25062
+      MaxId: 25061
+      NumberOfComponents: 3
+      Information: 0x2dfb500
+        Debug: Off
+        Modified Time: 26722
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Velocity
+      Number Of Components: 3
+      Number Of Tuples: 8354
+      Size: 25062
+      MaxId: 25061
+      LookupTable: (none)
+    Normals: (none)
+    TCoords: (none)
+    Tensors: 
+      Debug: Off
+      Modified Time: 26747
+      Reference Count: 1
+      Registered Events: (none)
+      Name: Viscosity
+      Data type: double
+      Size: 75186
+      MaxId: 75185
+      NumberOfComponents: 9
+      Information: 0x27f5810
+        Debug: Off
+        Modified Time: 26746
+        Reference Count: 1
+        Registered Events: (none)
+      Name: Viscosity
+      Number Of Components: 9
+      Number Of Tuples: 8354
+      Size: 75186
+      MaxId: 75185
+      LookupTable: (none)
+    GlobalIds: (none)
+    PedigreeIds: (none)
+    EdgeFlag: (none)
+  Bounds: 
+    Xmin,Xmax: (0, 0.8)
+    Ymin,Ymax: (0, 0.1)
+    Zmin,Zmax: (0, 0)
+  Compute Time: 26835
+  Number Of Points: 8354
+  Point Coordinates: 0x2dbcf80
+  Locator: 0
+  Number Of Pieces: 1
+  Piece: 0
+  Ghost Level: 0
+
+
+shape 40 : (8354,)
+------------dict ------------
+Pressure : (41, 1010)
+Temperature : (41, 1010)
+TemperatureInterpolationErrorBound : (41, 1010)
+Time : (41, 1010)
+Velocity : (41, 1010, 3)
+VelocityInterpolationErrorBound : (41, 1010, 3)
+GravityDirection : (41, 1010, 3)
+Viscosity : (41, 1010, 9)

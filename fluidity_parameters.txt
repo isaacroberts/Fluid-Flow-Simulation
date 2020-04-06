@@ -1,0 +1,14 @@
+
+
+Editable stats:
+
+	Finish Time [10]
+
+
+	Mesh (Bounds)
+	Gravity [10]
+	Reference Density [1]
+	Reference Temperature [1]
+	Thermal Expansion Coefficient [.001]
+	Viscosity [1e-6]
+	
